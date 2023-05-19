@@ -1,1117 +1,0 @@
- 
-<Document> 
-<Style id="IDLE">
-		<IconStyle>
-			<scale>.6</scale>
-			<Icon>
-				<href>https://www.repeaterbook.com/images/ham/gmapicon.png</href>
-			</Icon>
-		</IconStyle>
-		<LabelStyle>
-  
-			<color>ff00ff00</color>
-			<scale>0.7</scale>
-		</LabelStyle>
-	</Style>
-      
-  <Placemark>
-    <name>KA1UAG</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Enfield <![CDATA[ <br>  ]]> 444.90000+ 131.8 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=8943'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-72.14399719, 43.64059830,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>AA1JD</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Winchendon <![CDATA[ <br>  ]]> 224.44000-  <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=10279'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-72.04399872, 42.68709946,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>WC1P</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Winchendon <![CDATA[ <br>  ]]> 447.20000- 88.5 <![CDATA[ <br>  ]]> On-air: Unknown                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=10343'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-72.04399872, 42.68709946,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>WA1UNN</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Rindge <![CDATA[ <br>  ]]> 146.77500- 123.0 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=3397'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-72.00980377, 42.75120163,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>WA1HOG</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Rindge <![CDATA[ <br>  ]]> 223.92000- 100.0 <![CDATA[ <br>  ]]> On-air: Unknown                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=10312'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-72.00980377, 42.75120163,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>W1GCD</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Gardner <![CDATA[ <br>  ]]> 145.37000- 136.5 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=3314'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.99810028, 42.57509995,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>W1GCD</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Gardner <![CDATA[ <br>  ]]> 442.10000+ 88.5 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=6175'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.99810028, 42.57509995,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>N3LEE</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>New Ipswich <![CDATA[ <br>  ]]> 443.15000+ 71.9 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=13895'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.90149689, 42.77379990,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>WA1ZYX</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Peterborough <![CDATA[ <br>  ]]> 447.42500- 141.3 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=10399'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.88980103, 42.82180023,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>KA1OKQ</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Pack Monadnock <![CDATA[ <br>  ]]> 443.35000+ 110.9 <![CDATA[ <br>  ]]> On-air: Unknown                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=10382'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.87860107, 42.86280060,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>W1XOJ</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Pack Monadnock <![CDATA[ <br>  ]]> 448.00000- 203.5 <![CDATA[ <br>  ]]> On-air: Unknown                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=10402'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.87860107, 42.86280060,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>KA1BBG</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Greenfield <![CDATA[ <br>  ]]> 448.52500- 123.0 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=5942'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.87229919, 42.95059967,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>K1JY</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Wilmot <![CDATA[ <br>  ]]> 447.67500- 88.5 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=8952'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.85702530, 43.38340920,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>KA1BBG</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Francestown <![CDATA[ <br>  ]]> 147.06000+ 123.0 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=3415'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.81259918, 42.98759842,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>W1GZ</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Fitchburg <![CDATA[ <br>  ]]> 145.45000- 74.4 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=3316'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.80599976, 42.59730148,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>WB1EWS</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Fitchburg <![CDATA[ <br>  ]]> 147.31500+ 100.0 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=3324'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.80229950, 42.58340073,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>W1HFN</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Fitchburg <![CDATA[ <br>  ]]> 927.56250- 74.4 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=5984'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.80229950, 42.58340073,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>WB1EWS</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Fitchburg <![CDATA[ <br>  ]]> 53.83000- 71.9 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=6043'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.80229950, 42.58340073,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>WB1EWS</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Fichburg <![CDATA[ <br>  ]]> 224.34000-  <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=10276'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.80229950, 42.58340073,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>WB1EWS</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Fitchburg <![CDATA[ <br>  ]]> 442.95000+ 88.5 <![CDATA[ <br>  ]]> On-air: No                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=10328'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.80229950, 42.58340073,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>K1BKE</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Henniker <![CDATA[ <br>  ]]> 146.89500- 100.0 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=3423'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.79429626, 43.15530014,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>AA1JD</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Leominster <![CDATA[ <br>  ]]> 224.76000- 85.4 <![CDATA[ <br>  ]]> On-air: No                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=5553'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.75980377, 42.52510071,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>K3RQ</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Mont Vernon <![CDATA[ <br>  ]]> 448.42500- 88.5 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=11857'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.67420197, 42.89450073,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>WA1HCO</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Mont Vernon <![CDATA[ <br>  ]]> 447.12500- 88.5 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=8127'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.65280151, 42.89440155,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>K3RQ</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Milford <![CDATA[ <br>  ]]> 224.84000- 136.5 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=10316'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.64900208, 42.83539963,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>K1ZQ</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Amherst <![CDATA[ <br>  ]]> 224.02000- 136.5 <![CDATA[ <br>  ]]> On-air: No                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=10304'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.62539673, 42.86149979,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>W1VTP</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>New Boston <![CDATA[ <br>  ]]> 147.37500+ 88.5 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=3420'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.61810303, 42.93949890,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>W1ASS</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Goffstown <![CDATA[ <br>  ]]> 927.71250- 100.0 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=6001'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.59809875, 42.98329926,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>N1MNX</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Pepperrell <![CDATA[ <br>  ]]> 53.89000- 100.0 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=6045'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.58899689, 42.66640091,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>N1MNX</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Pepperell <![CDATA[ <br>  ]]> 147.34500+ 100.0 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=3287'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.58840179, 42.66590118,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>WA1VVH</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Pepperell <![CDATA[ <br>  ]]> 927.46250- 88.5 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=5980'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.58840179, 42.66590118,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>N1MNX</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Pepperell <![CDATA[ <br>  ]]> 442.90000+ 100.0 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=8931'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.58840179, 42.66590118,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>WA1VVH</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Pepperell <![CDATA[ <br>  ]]> 224.64000-  <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=10282'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.58840179, 42.66590118,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>W1DVC</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Harvard <![CDATA[ <br>  ]]> 145.41000- 74.4 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=3315'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.58280182, 42.50009918,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>KA1SU</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Bow <![CDATA[ <br>  ]]> 447.32500- 88.5 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=12953'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.54920197, 43.13199997,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>K1PRE</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Littleton <![CDATA[ <br>  ]]> 927.43750- 131.8 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=13717'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.51280212, 42.53730011,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>KB1IIT</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Bow <![CDATA[ <br>  ]]> 448.67500-  <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=10405'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.49400330, 43.11399841,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>N1KXT</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Pembroke <![CDATA[ <br>  ]]> 443.65000+ 131.8 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=10385'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.45749664, 43.14670181,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>N1SM</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Manchester <![CDATA[ <br>  ]]> 147.33000+ 141.3 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=3419'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.45480347, 42.99560165,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>K1DED</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Londonderry <![CDATA[ <br>  ]]> 442.00000+ 100.0 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=9668'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.44429779, 42.92829895,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>WB1GOF</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Westford <![CDATA[ <br>  ]]> 146.95500- 74.4 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=3280'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.44200134, 42.57680130,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>W1ALE</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Pembroke <![CDATA[ <br>  ]]> 146.94000- 114.8 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=3424'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.44059753, 43.21760178,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>KC2LT</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Hudson <![CDATA[ <br>  ]]> 448.27500- 107.2 <![CDATA[ <br>  ]]> On-air: No                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=9755'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.43979645, 42.76480103,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>K1QVC</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Derry <![CDATA[ <br>  ]]> 145.31000-  <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=8031'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.32730103, 42.88059998,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>K1CA</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Derry <![CDATA[ <br>  ]]> 224.46000- 85.4 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=10309'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.32730103, 42.88059998,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>KC2LT</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Derry <![CDATA[ <br>  ]]> 441.30000+ 107.2 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=10376'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.32730103, 42.88059998,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>W1AJI</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Derry <![CDATA[ <br>  ]]> 441.55000+ 127.3 <![CDATA[ <br>  ]]> On-air: No                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=10377'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.32730103, 42.88059998,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>NM1D</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Derry <![CDATA[ <br>  ]]> 146.74500- 114.8 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=3434'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.32720184, 42.88059998,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>K1CA</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Derry <![CDATA[ <br>  ]]> 146.85000- 85.4 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=3435'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.32720184, 42.88059998,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>KC2LT</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Derry <![CDATA[ <br>  ]]> 147.21000+ 107.2 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=3438'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.32720184, 42.88059998,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>K1CA</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Derry <![CDATA[ <br>  ]]> 449.62500- 85.4 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=9793'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.32720184, 42.88059998,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>N1AKE</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Pittsfield <![CDATA[ <br>  ]]> 224.54000- 103.5 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=10311'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.32420349, 43.30590057,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>K1LVF</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Lowell <![CDATA[ <br>  ]]> 442.25000+ 88.5 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=5426'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.31620026, 42.63339996,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>KB2KWB</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Lowell <![CDATA[ <br>  ]]> 444.96250+ 179.9 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=9748'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.31620026, 42.63339996,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>N1WPN</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Windham <![CDATA[ <br>  ]]> 53.65000- 71.9 <![CDATA[ <br>  ]]> On-air: No                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=6066'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.30419922, 42.80059814,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>K1DED</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Center Barnstead <![CDATA[ <br>  ]]> 446.47500- 88.5 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=9667'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.25949860, 43.33919907,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>K1OX</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Chester <![CDATA[ <br>  ]]> 224.20000-  <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=10307'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.25730133, 42.95679855,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>K1JC</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Chester <![CDATA[ <br>  ]]> 442.55000+ 88.5 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=8929'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.25720215, 42.95669937,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>NY1Z</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Salem <![CDATA[ <br>  ]]> 449.77500-  <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=10410'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.22149658, 42.79370117,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>K1JEK</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Alton <![CDATA[ <br>  ]]> 146.86500- 88.5 <![CDATA[ <br>  ]]> On-air: No                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=3390'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.21970367, 43.45420074,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>K1JEK</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Alton <![CDATA[ <br>  ]]> 444.05000+ 88.5 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=10389'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.21970367, 43.45420074,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>WA1ZYX</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Deerfield <![CDATA[ <br>  ]]> 449.45000- 123.0 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=9758'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.21690369, 43.14609909,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>W1ASS</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Deerfield <![CDATA[ <br>  ]]> 927.68750- 88.5 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=6000'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.21649933, 43.14619827,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>W1SRA</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Deerfield <![CDATA[ <br>  ]]> 147.00000- 100.0 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=3436'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.20749664, 43.17589951,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>NY1Z</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Salem <![CDATA[ <br>  ]]> 147.16500+ 136.5 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=3437'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.20079803, 42.78839874,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>KC1US</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>North Reading <![CDATA[ <br>  ]]> 146.71500- 146.2 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=3278'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.19560242, 42.50479889,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>W1CLA</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Burlington <![CDATA[ <br>  ]]> 447.02500- 146.2 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=7279'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.19560242, 42.50469971,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>W1DYJ</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Burlington <![CDATA[ <br>  ]]> 446.77500- 88.5 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=8948'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.19560242, 42.50469971,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>WB1CXB</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Methuen <![CDATA[ <br>  ]]> 223.92000- 141.3 <![CDATA[ <br>  ]]> On-air: Unknown                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=10270'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.19090271, 42.72620010,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>KX1M</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Methuen <![CDATA[ <br>  ]]> 224.96000- 103.5 <![CDATA[ <br>  ]]> On-air: No                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=10290'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.19090271, 42.72620010,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>N1LHP</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Methuen <![CDATA[ <br>  ]]> 448.32500- 88.5 <![CDATA[ <br>  ]]> On-air: No                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=10404'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.19090271, 42.72620010,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>N1LHP</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Methuen <![CDATA[ <br>  ]]> 224.68000- 88.5 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=10773'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.19090271, 42.72620010,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>K1KZP</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Wilmington <![CDATA[ <br>  ]]> 224.16000- 67.0 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=10273'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.17240143, 42.54819870,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>N1LHP</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Chelmsford <![CDATA[ <br>  ]]> 441.90000+ 88.5 <![CDATA[ <br>  ]]> On-air: No                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=13301'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.17240143, 42.54819870,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>N1EXC</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Lawrence <![CDATA[ <br>  ]]> 224.30000-  <![CDATA[ <br>  ]]> On-air: Unknown                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=7168'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.16310120, 42.70700073,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>KB1SFG</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Lawrence <![CDATA[ <br>  ]]> 446.37500- 100.0 <![CDATA[ <br>  ]]> On-air: No                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=9749'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.16310120, 42.70700073,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>N1EXC</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Lawrence <![CDATA[ <br>  ]]> 146.65500- 107.2 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=10612'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.16310120, 42.70700073,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>N1EXC</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Lawrence <![CDATA[ <br>  ]]> 447.62500- 88.5 <![CDATA[ <br>  ]]> On-air: Unknown                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=13833'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.16310120, 42.70700073,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>N1LHP</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Andover <![CDATA[ <br>  ]]> 146.83500- 77.0 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=3261'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.13700104, 42.65840149,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>N1LHP</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Andover <![CDATA[ <br>  ]]> 224.52000- 88.5 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=10280'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.13680267, 42.65829849,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>N1LHP</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>North Andover <![CDATA[ <br>  ]]> 444.10000+ 179.9 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=10334'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.13510132, 42.69869995,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>WA1RHN</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Reading <![CDATA[ <br>  ]]> 446.52500- 151.4 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=10341'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.09529877, 42.52569962,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>KT1S</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Haverhill <![CDATA[ <br>  ]]> 145.35000- 136.5 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=3257'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.07730103, 42.77619934,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>N1IRS</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Haverhill <![CDATA[ <br>  ]]> 224.12000- 103.5 <![CDATA[ <br>  ]]> On-air: Unknown                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=10272'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.07730103, 42.77619934,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>K1KKM</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Haverhill <![CDATA[ <br>  ]]> 447.27500- 88.5 <![CDATA[ <br>  ]]> On-air: No                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=10344'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.07730103, 42.77619934,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>WA1RHN</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Wakefield <![CDATA[ <br>  ]]> 147.07500+ 151.4 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=3282'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.07279968, 42.50650024,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>WA1RHN</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Wakefield <![CDATA[ <br>  ]]> 223.80000-  <![CDATA[ <br>  ]]> On-air: Unknown                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=9825'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.07230377, 42.50389862,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>WA1WYA</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Wakefield <![CDATA[ <br>  ]]> 224.26000- 67.0 <![CDATA[ <br>  ]]> On-air: No                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=10274'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-71.07230377, 42.50389862,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>W1ASS</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Georgetown <![CDATA[ <br>  ]]> 927.72500- 100.0 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=5990'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-70.99120331, 42.72510147,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>K1KKM</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>West Newbury <![CDATA[ <br>  ]]> 146.62500- 131.8 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=3260'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-70.98979950, 42.80149841,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>K1KN</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Exeter <![CDATA[ <br>  ]]> 224.22000- 67.0 <![CDATA[ <br>  ]]> On-air: Unknown                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=10308'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-70.94779968, 42.98139954,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>W1WQM</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Kensington <![CDATA[ <br>  ]]> 145.15000- 127.3 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=3427'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-70.94390106, 42.92699814,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>W1WQM</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Kensington <![CDATA[ <br>  ]]> 444.40000+ 100.0 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=33&ID=10393'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-70.94390106, 42.92699814,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>N1HSY</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Topsfield <![CDATA[ <br>  ]]> 147.28500+ 100.0 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=3265'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-70.93994900, 42.64066800,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>N1UEC</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Danvers <![CDATA[ <br>  ]]> 53.85000- 71.9 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=6044'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-70.93209839, 42.57500076,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>NS1RA</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Danvers <![CDATA[ <br>  ]]> 223.88000- 136.5 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=10269'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-70.93209839, 42.57500076,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>NS1RA</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Danvers <![CDATA[ <br>  ]]> 145.47000- 136.5 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=3258'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-70.93009949, 42.57509995,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>NS1RA</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Salem <![CDATA[ <br>  ]]> 927.75000- 131.8 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=5991'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-70.89669800, 42.51950073,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>NS1RA</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Salem <![CDATA[ <br>  ]]> 446.62500- 88.5 <![CDATA[ <br>  ]]> On-air: Unknown                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=9750'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-70.89669800, 42.51950073,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>WA1PNW</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Beverly <![CDATA[ <br>  ]]> 442.85000+ 103.5 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=11474'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-70.88009644, 42.55839920,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>W1IEM</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Ipswich <![CDATA[ <br>  ]]> 145.49000- 131.8 <![CDATA[ <br>  ]]> On-air: No                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=25&ID=3259'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-70.84120178, 42.67929840,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>N1KMA</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Sanford <![CDATA[ <br>  ]]> 145.21000- 156.7 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=23&ID=3381'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-70.80090332, 43.41830063,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>N1KMA</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Sanford <![CDATA[ <br>  ]]> 223.82000- D023 <![CDATA[ <br>  ]]> On-air: Unknown                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=23&ID=10292'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-70.77429962, 43.43920135,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>N1KMA</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Sanford <![CDATA[ <br>  ]]> 441.50000+ 156.7 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=23&ID=10359'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-70.77429962, 43.43920135,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>W1LO</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Sanford <![CDATA[ <br>  ]]> 441.60000+ 203.5 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=23&ID=10361'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-70.77429962, 43.43920135,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>N1ROA</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Sanford <![CDATA[ <br>  ]]> 146.80500- 103.5 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=23&ID=12664'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-70.77429962, 43.43920135,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>WJ1L</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Alfred <![CDATA[ <br>  ]]> 448.72500- 103.5 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=23&ID=9756'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-70.71839905, 43.47650146,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>W1BHR</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Alfred <![CDATA[ <br>  ]]> 147.34500+ 123.0 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=23&ID=12812'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-70.71620178, 43.47650146,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>KB1PRG</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>Alfred <![CDATA[ <br>  ]]> 449.82500- 103.5 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=23&ID=14379'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-70.71620178, 43.47650146,0</coordinates>
-    </Point>  
-  </Placemark> 
-      
-  <Placemark>
-    <name>KQ1L</name>
-    	<styleUrl>IDLE</styleUrl>
-    <description>York <![CDATA[ <br>  ]]> 147.18000+ 131.8 <![CDATA[ <br>  ]]> On-air: Yes                    <![CDATA[<br> <a href='https://www.repeaterbook.com/repeaters/details.php?state_id=23&ID=3388'>Click for Details</a>                     ]]>
-                    </description>
-    <Point>
-      <coordinates>-70.69231940, 43.22256540,0</coordinates>
-    </Point>  
-  </Placemark> 
-       
-</Document>
